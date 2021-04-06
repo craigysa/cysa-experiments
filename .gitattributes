@@ -1,3 +1,7 @@
  *utf16.* text working-tree-encoding=UTF-16LE-BOM eol=CRLF
  *utf8.*  text working-tree-encoding=UTF-8
+ # Test for VS files that be created with utf-16 encoding
+ *.sql     text working-tree-encoding=UTF-16LE-BOM eol=CRLF
+ *.rc      text working-tree-encoding=UTF-16LE-BOM eol=CRLF
+ gitadd.txt  text working-tree-encoding=UTF-16LE-BOM eol=CRLF
  
